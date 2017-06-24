@@ -1,0 +1,31 @@
+C:\Users\Jonas\Documents\Visual Studio 2015\Projects\Teste1\Teste1\bin\Debug\Teste1.exe.config
+E:\Executaveis liberados\Teste1\Teste1\bin\Debug\Teste1.exe.config
+E:\Executaveis liberados\Teste1\Teste1\obj\Debug\Teste1.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Teste1\Teste1\obj\Debug\Teste1.Form1.resources
+E:\Executaveis liberados\Teste1\Teste1\obj\Debug\Teste1.Properties.Resources.resources
+E:\Executaveis liberados\Teste1\Teste1\obj\Debug\Teste1.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Teste1\Teste1\bin\Debug\Teste1.exe
+E:\Executaveis liberados\Teste1\Teste1\bin\Debug\Teste1.pdb
+E:\Executaveis liberados\Teste1\Teste1\obj\Debug\Teste1.exe
+E:\Executaveis liberados\Teste1\Teste1\obj\Debug\Teste1.pdb
+E:\Executaveis liberados\Urna Eletrônica(Denner César, Douglas Pinheiro, Jonas Sousa)\Teste1\bin\Debug\Teste1.exe.config
+E:\Executaveis liberados\Urna Eletrônica(Denner César, Douglas Pinheiro, Jonas Sousa)\Teste1\obj\Debug\Teste1.exe
+E:\Executaveis liberados\Urna Eletrônica(Denner César, Douglas Pinheiro, Jonas Sousa)\Teste1\obj\Debug\Teste1.pdb
+E:\Executaveis liberados\Urna Eletrônica(Denner César, Douglas Pinheiro, Jonas Sousa)\Teste1\bin\Debug\Teste1.exe
+E:\Executaveis liberados\Urna Eletrônica(Denner César, Douglas Pinheiro, Jonas Sousa)\Teste1\bin\Debug\Teste1.pdb
+E:\Executaveis liberados\Urna Eletrônica(Denner César, Douglas Pinheiro, Jonas Sousa)\Teste1\obj\Debug\Teste1.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Urna Eletrônica(Denner César, Douglas Pinheiro, Jonas Sousa)\Teste1\obj\Debug\Teste1.Form1.resources
+E:\Executaveis liberados\Urna Eletrônica(Denner César, Douglas Pinheiro, Jonas Sousa)\Teste1\obj\Debug\Teste1.Properties.Resources.resources
+E:\Executaveis liberados\Urna Eletrônica(Denner César, Douglas Pinheiro, Jonas Sousa)\Teste1\obj\Debug\Teste1.csproj.GenerateResource.Cache
+E:\Executaveis liberados\GITHUB\Urna Eletrônica\Teste1\bin\Debug\Teste1.exe.config
+E:\Executaveis liberados\GITHUB\Urna Eletrônica\Teste1\obj\Debug\Teste1.exe
+E:\Executaveis liberados\GITHUB\Urna Eletrônica\Teste1\obj\Debug\Teste1.pdb
+E:\Executaveis liberados\GITHUB\Urna Eletrônica\Teste1\bin\Debug\Teste1.exe
+E:\Executaveis liberados\GITHUB\Urna Eletrônica\Teste1\bin\Debug\Teste1.pdb
+E:\Executaveis liberados\GITHUB\Urna Eletrônica\Teste1\obj\Debug\Teste1.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\GITHUB\Urna Eletrônica\Teste1\obj\Debug\Teste1.Form1.resources
+E:\Executaveis liberados\GITHUB\Urna Eletrônica\Teste1\obj\Debug\Teste1.Properties.Resources.resources
+E:\Executaveis liberados\GITHUB\Urna Eletrônica\Teste1\obj\Debug\Teste1.csproj.GenerateResource.Cache
+D:\C#\GITHUB\Urna Eletrônica\Teste1\bin\Debug\Teste1.exe.config
+D:\C#\GITHUB\Urna Eletrônica\Teste1\obj\Debug\Teste1.exe
+D:\C#\GITHUB\Urna Eletrônica\Teste1\obj\Debug\Teste1.pdb
